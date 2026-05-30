@@ -1,2 +1,4 @@
 # Gamer-s-Vibe
-Vibe coding project to assist gamers
+Vibe coding projects to assist gamers
+Projects List(Time line):
+1.Sound tracker
